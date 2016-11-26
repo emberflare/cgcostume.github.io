@@ -6,7 +6,7 @@
   "projects" : [
 
     { "key"       : "mfsv2016",
-      "title"     : "mfsv - A prototypical Javascript Multi-frame Sampling Viewer for 3D models",
+      "title"     : "mfsv - A prototypical WebGL Multi-frame Sampling Viewer for 3D models",
       "date"      : "2016-08-30",
 
       "caption"   : {
