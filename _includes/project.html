@@ -3,8 +3,17 @@
   {% assign thumbnail_alt = p.title %}
   {% assign thumbnail_flickr = p.flickr %}
   {% include thumbnail.html %}
-  <h4>{{ p.title | escape }}</h4>
-  <p>{{ p.caption.[page.lang] }}</p>
-  <p>{% if p.bibtex %}<a data-toggle="modal" href="#bibtex-{{ p.key }}">BibTex</a>{% if p.downloads %}, {% endif %}{% endif %}
-    {% if p.downloads %}{% for download in p.downloads %}<a {% if download.video %}class="video-{{ download.video }}" {% endif %}href="{{ download.href }}">{{ download.desc }}</a>{% if download != p.downloads.last %}, {% endif %}{% endfor %}{% endif %}&nbsp;</p>
+
+    <div class="row not-last">
+      <div class="col-sm-3">
+        {% include thumbnail.html %}
+      </div>
+      <div class="col-sm-9">
+        <h4>{{ p.title }}</h4>
+        <p>{{ p.caption.[page.lang] }}</p>
+        <p>
+          {% if p.downloads %}{% for download in p.downloads %}<a {% if download.video %}class="video-{{ download.video }}" {% endif %}href="{{ download.href }}" target="_blank">{{ download.desc }}</a>{% if download != p.downloads.last %}, {% endif %}{% endfor %}{% endif %}
+        </p>
+      </div>
+    </div>
 </div>

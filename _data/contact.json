@@ -3,22 +3,6 @@
     "en" : "Contact",
   	"de" : "Kontakt" },
 
-  "vcard" : {
-    "file" : "/vcard.vcf",
-    "qr_svg" : "vcard-qr.svg",
-    "qr_fallback" : "vcard-qr.png" },
-
-  "vcard_label" : {
-    "label" : {
-      "en" : "vCard",
-      "de" : "vCard" },
-    "download_file" : {
-      "en" : "Download file",
-      "de" : "Datei herunterladen" },
-    "scan_qr_code" : {
-      "en" : "or scan QR code:",
-      "de" : "oder QR-Code scannen:" }},
-
   "email" : "mail@msoechting.de",
 
   "email_label" : {
@@ -31,22 +15,10 @@
   "alternative_label" : {
     "en" : "Other",
     "de" : "Alternativ" },
-
-  "phone" : {
-    "en" : "",
-    "de" : "" },
-
+    
   "phone_label" : {
     "en" : "Phone",
     "de" : "Telefon" },
-
-  "refs" : [
-  	{ "name" : "LinkedIn", "href" : "" },
-  	{ "name" : "GitHub", "href" : "" },
-  	{ "name" : "Flickr", "href" : "" },
-  	{ "name" : "YouTube", "href" : "" },
-  	{ "name" : "Vimeo", "href" : "" },
-  	],
 
   "refs_label" : {
     "en" : "More",
