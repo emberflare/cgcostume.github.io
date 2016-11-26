@@ -38,7 +38,7 @@ defaults:
       path: ''
     values:
       lang: en
-      description: 'Personal website of Daniel Limberger, bachelor student at Hasso-Plattner-Institute in Potsdam. It enlists his projects, publications and contact information.'
+      description: 'Personal website of Maximilian Söchting, bachelor student at Hasso-Plattner-Institute in Potsdam. It enlists his projects, publications and contact information.'
   - scope:
       path: 'de'
     values:

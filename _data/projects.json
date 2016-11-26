@@ -6,12 +6,12 @@
   "projects" : [
 
     { "key"       : "mfsv2016",
-      "title"     : "mfsv - A prototypical WebGL Multi-frame Sampling Viewer for 3D models",
+      "title"     : "MFSV",
       "date"      : "2016-08-30",
 
       "caption"   : {
-        "en" : "Lorem ipsum.",
-        "de" : "Lorem ipsum." },
+        "en" : "A prototypical WebGL-based Multi-frame Sampling viewer for 3D scenes using Three.js. Developed under the supervision of Daniel Limberger as part of the seminar 'Introduction to Visual Analytics' in the summer semester 2016 at HPI.",
+        "de" : "Ein prototypischer WebGL-basierter Multi-frame Sampling Viewer für 3D-Szenen. Entwickelt unter der Betreuung von Daniel Limberger als Teil des Seminars 'Einführung in die Visual Analytics' im Sommersemester 2016 am HPI." },
 
       "authors"   : [ "Maximilian Söchting", "Daniel Limberger" ],
       "thumbnail" : "2016-mfsv.jpg",
