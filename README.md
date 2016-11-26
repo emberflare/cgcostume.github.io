@@ -1,14 +1,16 @@
 
 Portfolio optimized for researchers and those who strive for a minimal, file-based "content management" (**Datafolio**).
-The complete site's content is based on a json/xml file per section (e.g., ```contact.json```, ```projects.json```, ```publications.json```, ```talks.json```, and ```teaching.json```) as well as the pages ```_config.yml``` information. 
+The complete site's content is based on a json/xml file per section (e.g., ```contact.json```, ```projects.json```, ```publications.json```, ```talks.json```, and ```teaching.json```) as well as the pages ```_config.yml``` information.
 
-[![Build Status](https://travis-ci.org/cgcostume/cgcostume.github.io.svg?branch=master)](https://travis-ci.org/cgcostume/cgcostume.github.io)
+[![Build Status](https://travis-ci.org/emberflare/emberflare.github.io.svg?branch=master)](https://travis-ci.org/emberflare/emberflare.github.io)
 
 #### Examples
 
 * [Daniel Limberger](http://www.daniellimberger.de)
 
 * [Amir Semmo](http://asemmo.github.io/) (adapted, older revision of Datafolio)
+
+* [Maximilian Söchting](http://www.msoechting.de) (adapted)
 
 #### Features
 

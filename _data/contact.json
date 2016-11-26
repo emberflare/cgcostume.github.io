@@ -1,4 +1,4 @@
-{ 
+{
   "heading" : {
     "en" : "Contact",
   	"de" : "Kontakt" },
@@ -19,41 +19,40 @@
       "en" : "or scan QR code:",
       "de" : "oder QR-Code scannen:" }},
 
-  "email" : "cgdaniel@outlook.com", 
+  "email" : "mail@msoechting.de",
 
   "email_label" : {
     "en" : "E-Mail",
     "de" : "E-Mail" },
 
-  "alternative_emails" : [ 
-  	"daniel.limberger@hpi.de", 
-  	"limberger@cginternals.com" ],
+  "alternative_emails" : [
+  	"maximilian.soechting@student.hpi.de" ],
 
   "alternative_label" : {
     "en" : "Other",
     "de" : "Alternativ" },
 
-  "phone" : { 
-    "en" : "+49 163 568 2818",
-    "de" : "0163 568 2818" },
+  "phone" : {
+    "en" : "",
+    "de" : "" },
 
   "phone_label" : {
     "en" : "Phone",
     "de" : "Telefon" },
 
-  "refs" : [ 
-  	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/daniellimberger" },
-  	{ "name" : "GitHub", "href" : "https://github.com/cgcostume" },
-  	{ "name" : "Flickr", "href" : "https://www.flickr.com/photos/131006004@N06/albums" },
-  	{ "name" : "YouTube", "href" : "https://www.youtube.com/user/costumebrother" },
-  	{ "name" : "Vimeo", "href" : "https://vimeo.com/user2011768" },
+  "refs" : [
+  	{ "name" : "LinkedIn", "href" : "" },
+  	{ "name" : "GitHub", "href" : "" },
+  	{ "name" : "Flickr", "href" : "" },
+  	{ "name" : "YouTube", "href" : "" },
+  	{ "name" : "Vimeo", "href" : "" },
   	],
 
   "refs_label" : {
     "en" : "More",
     "de" : "Weitere" },
 
-  "formspree" : "cgdaniel@outlook.com",
+  "formspree" : "mail@msoechting.de",
 
   "form_legend" : {
     "en" : "Drop Me a Line",
@@ -72,7 +71,7 @@
     "de" : "Absenden" },
 
    "submit_info" : {
-   	"en" : "To cgdaniel@outlook.com via <a href='https://formspree.io/'>Formspree</a>.",
-   	"de" : "Via <a href='https://formspree.io/'>Formspree</a> an cgdaniel@outlook.com." },
+   	"en" : "To mail@msoechting.de via <a href='https://formspree.io/'>Formspree</a>.",
+   	"de" : "Via <a href='https://formspree.io/'>Formspree</a> an mail@msoechting.de." },
 
 }
