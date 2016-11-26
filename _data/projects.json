@@ -3,23 +3,24 @@
     "en" : "Projects & References",
     "de" : "Projekte & Referenzen" },
 
-  "projects" : [ 
+  "projects" : [
 
-    { "key"       : "glbinding2014",
-      "title"     : "glbinding",
-      "date"      : "2014-05-02",
-      "status"    : "ongoing",
-     
+    { "key"       : "mfsv2016",
+      "title"     : "mfsv - A prototypical Javascript Multi-frame Sampling Viewer for 3D models",
+      "date"      : "2016-08-30",
+
       "caption"   : {
-        "en" : "I initiated, (co-)designed, and continue to maintain this state-of-the-art, cross-platform C++ binding for the OpenGL API.",
-        "de" : "Cross-platform C++ binding for OpenGL, solely based on the xml-based OpenGL API specification." },
+        "en" : "Lorem ipsum.",
+        "de" : "Lorem ipsum." },
 
-      "authors"   : [ "Daniel Limberger", "Willy Scheibel", "Roland Lux" ],
-      "thumbnail" : "2014-glbinding.jpg",
-      "flickr"    : "72157650197067747",
+      "authors"   : [ "Maximilian Söchting", "Daniel Limberger" ],
+      "thumbnail" : "2016-mfsv.jpg",
       "downloads" : [
-        { "href"  : "https://github.com/hpicgs/glbinding",
+        { "href"  : "https://github.com/emberflare/mfsv",
           "desc"  : "Project (GitHub)"
+        }, {
+          "href"  : "http://emberflare.github.io/mfsv",
+          "desc"  : "Demos"
         } ],
     },
     { "key"       : "globjects2013",
@@ -72,7 +73,7 @@
     { "key"       : "gameprogramming2014",
       "title"     : "Game Programming",
       "date"      : "2014-04-02",
-      
+
       "caption"   : {
         "en" : "While enjoying co-lecturing multiple Game Programming Seminars, I like editing videos to promote these rare seminars.",
         "de" : "While enjoying co-lecturing multiple Game Programming Seminars, I like editing videos to promote these rare seminars." },
@@ -88,7 +89,7 @@
     { "key"       : "vissoft2014",
       "title"     : "Publicity & Web Chair",
       "date"      : "2014-08-01",
-      
+
       "caption"   : {
         "en" : "Disseminatied conference information and redesigned the Logo and Website of the IEEE Conf. on Software Visualization.",
         "de" : "While enjoying co-lecturing multiple Game Programming Seminars, I like editing videos to promote these rare seminars." },
@@ -103,7 +104,7 @@
     { "key"       : "tangible2015",
       "title"     : "Tangible Treemaps",
       "date"      : "2015-08-01",
-      
+
       "caption"   : {
         "en" : "We experimented with 3d printed, colored, and labeled 2.5D treemaps by means of feasibility and interaction.",
         "de" : "While enjoying co-lecturing multiple Game Programming Seminars, I like editing videos to promote these rare seminars." },
@@ -115,7 +116,7 @@
     { "key"       : "minature2011",
       "title"     : "Miniature Baby Print",
       "date"      : "2011-12-19",
-      
+
       "caption"   : {
         "en" : "In 2011 I created my first miniature 3D print of my two month old daughter as a present for her grand parents.",
         "de" : "2011 habe ich meinen ersten 3D Druck gemacht: meine damals zwei Monate alte Tochter als Geschenk an ihre Großeltern." },

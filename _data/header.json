@@ -3,11 +3,13 @@
   	"en" : "Maximilian Söchting",
   	"de" : "Maximilian Söchting" },
 
+  "lead" : {
+	"en" : "Bachelor student at the <a href='https://hpi.de/'>Hasso Plattner Institute</a> in Potsdam.",
+	"de" : "Bachelorstudent am <a href='https://hpi.de/'>Hasso-Plattner-Institut</a> in Potsdam." },
+
   "about" : {
-  	"en" : "Bachelor student at the <a href='https://hpi.de/'>Hasso Plattner Institute</a> in Potsdam.
-    Interested in computer graphics, human-computer interaction, video game development and music composition.",
-  	"de" : "Bachelorstudent am <a href='https://hpi.de/'>Hasso-Plattner-Institut</a> in Potsdam.
-    Interessiert an Computergrafik, Mensch-Computer-Interaktion, Videospielentwicklung und Musikkomposition." },
+    "en" : "Interested in computer graphics, human-computer interaction, video game development and music composition.",
+    "de" : "Interessiert an Computergrafik, Human-Computer-Interaction, Videospielentwicklung und Musikkomposition." },
 
   "picture" : "maximilian-soechting-dez-2015.jpg"
 }
