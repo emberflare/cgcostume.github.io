@@ -53,5 +53,21 @@
           "desc"  : "Showcase (YouTube)"
         } ],
     },
+    { "key"       : "blindexcel2016",
+      "title"     : "Excel for the Blind - Linespace",
+      "date"      : "2016-01-20",
+
+      "caption"   : {
+        "en" : "As part of the lecture 'Designing Interactive Systems' in the winter semester 2015/16 by Prof. Patrick Baudisch, we formed student teams and developed apps for a research prototype called Linespace, a sensemaking platform for the blind (more info can be found at the link below). Our team of three developed a spreadsheet application for Linespace that enabled blind users to browse through Excel spreadsheets, edit formulas in it and explore graphs by having Linespace draw them on the surface. An overview of our primary design choices can be found in the slides 64 through 69 at the link below.",
+        "de" : "Als Teil der Veranstaltung 'Designing Interactive Systems' im Wintersemester 2015/16 von Prof. Patrick Baudisch, habe wir Studententeams gebildet und Apps für den Forschungsprototypen Linespace entwickelt, 'a sensemaking platform for the blind' (für mehr Infos über Linespace siehe Link). Unser dreiköpfiges Team entwickelte eine Tabellenkalkulationsanwendung für Linespace, die es blinden Benutzern ermöglichte, bestimmte Werte in der Tabelle auszulesen, Formeln zu bearbeiten und Graphen durch Linespace zeichnen lassen. Ein kleiner Überblick über unsere größeren Designentscheidungen kann man in den Folien 64 bis 69 im unten stehenden Link finden.",
+    },
+
+      "authors"   : [ "Maximilian Söchting" ],
+      "thumbnail" : "2016-blindexcel.jpg",
+      "downloads" : [
+        { "href"  : "http://stefaniemueller.org/linespace/",
+          "desc"  : "What is Linespace?"
+        } ],
+    },
      ]
 }
