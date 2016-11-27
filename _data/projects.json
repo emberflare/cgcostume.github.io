@@ -58,8 +58,8 @@
       "date"      : "2016-01-20",
 
       "caption"   : {
-        "en" : "As part of the lecture 'Designing Interactive Systems' in the winter semester 2015/16 by Prof. Patrick Baudisch, we formed student teams and developed apps for a research prototype called Linespace, a sensemaking platform for the blind (more info can be found at the link below). Our team of three developed a spreadsheet application for Linespace that enabled blind users to browse through Excel spreadsheets, edit formulas in it and explore graphs by having Linespace draw them on the surface. An overview of our primary design choices can be found in the slides 64 through 69 at the link below.",
-        "de" : "Als Teil der Veranstaltung 'Designing Interactive Systems' im Wintersemester 2015/16 von Prof. Patrick Baudisch, habe wir Studententeams gebildet und Apps für den Forschungsprototypen Linespace entwickelt, 'a sensemaking platform for the blind' (für mehr Infos über Linespace siehe Link). Unser dreiköpfiges Team entwickelte eine Tabellenkalkulationsanwendung für Linespace, die es blinden Benutzern ermöglichte, bestimmte Werte in der Tabelle auszulesen, Formeln zu bearbeiten und Graphen durch Linespace zeichnen lassen. Ein kleiner Überblick über unsere größeren Designentscheidungen kann man in den Folien 64 bis 69 im unten stehenden Link finden.",
+        "en" : "As part of the lecture 'Designing Interactive Systems' in the winter semester 2015/16 by Prof. Patrick Baudisch, we formed student teams and developed apps for a research prototype called Linespace. Our team of three developed a spreadsheet application for Linespace that enables blind users to browse through Excel spreadsheets, edit formulas in it and explore graphs by having Linespace draw them on the surface. An overview of our primary design choices can be found in the slides 64-69 or in the linked talk.",
+        "de" : "Als Teil der Veranstaltung 'Designing Interactive Systems' im Wintersemester 2015/16 von Prof. Patrick Baudisch, habe wir Studententeams gebildet und Apps für den Forschungsprototypen Linespace entwickelt. Unser dreiköpfiges Team entwickelte eine Tabellenanwendung für Linespace, die es blinden Benutzern ermöglicht, bestimmte Werte in der Tabelle auszulesen, Formeln zu bearbeiten und Graphen durch Linespace zeichnen zu lassen. Ein kleiner Überblick über unsere größeren Designentscheidungen kann man in den Folien 64 bis 69 im unten stehenden Link oder im verlinkten Talk finden.",
     },
 
       "authors"   : [ "Maximilian Söchting" ],
@@ -67,6 +67,9 @@
       "downloads" : [
         { "href"  : "http://stefaniemueller.org/linespace/",
           "desc"  : "What is Linespace?"
+        },
+        { "href"  : "https://youtu.be/EGxcSqq-204?t=821",
+          "desc"  : "CHI2016 Linespace talk (starting 13:50)"
         } ],
     },
      ]
