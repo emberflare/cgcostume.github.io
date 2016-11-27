@@ -1,6 +1,25 @@
 <script src="https://cdn.jsdelivr.net/g/jquery@2.2.1,tether@1.2.0,jquery.validation@1.15.0,blueimp-gallery@2.15.0,clipboard.js@1.5.8"></script>
 <script src="/js/modal.js"></script>
 <script src="/js/scrollspy.js"></script>
-<script src="/js/util.js"></script> 
-<script src="/js/datafolio.js"></script> 
-<script src="/js/dropdown.js"></script> 
+<script src="/js/util.js"></script>
+<script src="/js/datafolio.js"></script>
+<script src="/js/dropdown.js"></script>
+
+<script>
+$(document).ready(
+	function()
+	{
+		var thumbnails = document.getElementsByClassName('thumbnail');
+		for (thumbnail of thumbnails) {
+			thumbnail.onclick = function (event) {
+				event = event || window.event;
+				var target = event.target || event.srcElement,
+					link = target.src ? target.parentNode : target,
+					options = {index: link, event: event},
+					links = this.getElementsByTagName('a');
+				blueimp.Gallery(links, options);
+			};
+		}
+	}
+)
+</script>
