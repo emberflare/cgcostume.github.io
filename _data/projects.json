@@ -29,7 +29,7 @@
 
       "caption"   : {
         "en" : "A clean and simple C++ CLI tool that converts a greyscale heightmap to a 3D OBJ model. Especially useful for quickly generating models for 3D printing.",
-        "de" : "Eine einfache C++ Kommandozeilenanwendung, die eine Graustufen-Höhenkarte in ein 3D-OBJ-Modell konvertiert. Besonders nützlich für das Generieren von Modellen für den 3D-Druck." },
+        "de" : "Eine einfache C++ Kommandozeilenanwendung, die eine Graustufen-Höhenkarte in ein 3D-OBJ-Modell konvertiert. Besonders nützlich für die schnelle Generierung von Modellen für den 3D-Druck." },
 
       "authors"   : [ "Maximilian Söchting" ],
       "thumbnail" : "2016-hmap2obj.jpg",
@@ -83,6 +83,10 @@
 
       "authors"   : [ "Maximilian Söchting" ],
       "thumbnail" : "2012-randomteamdef.jpg",
+      "downloads" : [
+        { "href"  : "battlenet:://starcraft/map/2/126755",
+          "desc"  : "View RandomTeamDefense in the Battle.Net (requires StarCraft II to be installed)"
+        } ]
     },
      ]
 }
