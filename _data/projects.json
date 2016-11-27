@@ -28,8 +28,8 @@
       "date"      : "2016-10-15",
 
       "caption"   : {
-        "en" : "A clean and simple C++ CLI tool that converts a greyscale heightmap to a 3D OBJ model.",
-        "de" : "Eine einfache C++ Kommandozeilenanwendung, die eine Graustufen-Höhenkarte in ein 3D-OBJ-Modell konvertiert." },
+        "en" : "A clean and simple C++ CLI tool that converts a greyscale heightmap to a 3D OBJ model. Especially useful for quickly generating models for 3D printing.",
+        "de" : "Eine einfache C++ Kommandozeilenanwendung, die eine Graustufen-Höhenkarte in ein 3D-OBJ-Modell konvertiert. Besonders nützlich für das Generieren von Modellen für den 3D-Druck." },
 
       "authors"   : [ "Maximilian Söchting" ],
       "thumbnail" : "2016-hmap2obj.jpg",
@@ -58,8 +58,8 @@
       "date"      : "2016-01-20",
 
       "caption"   : {
-        "en" : "As part of the lecture 'Designing Interactive Systems' in the winter semester 2015/16 by Prof. Patrick Baudisch, we formed student teams and developed apps for a research prototype called Linespace. Our team of three developed a spreadsheet application for Linespace that enables blind users to browse through Excel spreadsheets, edit formulas in it and explore graphs by having Linespace draw them on the surface. An overview of our primary design choices can be found in the slides 64-69 or in the linked talk.",
-        "de" : "Als Teil der Veranstaltung 'Designing Interactive Systems' im Wintersemester 2015/16 von Prof. Patrick Baudisch, habe wir Studententeams gebildet und Apps für den Forschungsprototypen Linespace entwickelt. Unser dreiköpfiges Team entwickelte eine Tabellenanwendung für Linespace, die es blinden Benutzern ermöglicht, bestimmte Werte in der Tabelle auszulesen, Formeln zu bearbeiten und Graphen durch Linespace zeichnen zu lassen. Ein kleiner Überblick über unsere größeren Designentscheidungen kann man in den Folien 64 bis 69 im unten stehenden Link oder im verlinkten Talk finden.",
+        "en" : "As part of the lecture 'Designing Interactive Systems' in the winter semester 2015/16 by Prof. Patrick Baudisch, we formed student teams and developed apps for a research prototype called Linespace. Our team of three developed a spreadsheet application for Linespace that enables blind users to browse through Excel spreadsheets, edit formulas in it and explore graphs by having Linespace draw them on the surface. An overview of our primary design choices can be found in the slides 64-69 or in the linked talk, starting at 13m:50s.",
+        "de" : "Als Teil der Veranstaltung 'Designing Interactive Systems' im Wintersemester 2015/16 von Prof. Patrick Baudisch, habe wir Studententeams gebildet und Apps für den Forschungsprototypen Linespace entwickelt. Unser dreiköpfiges Team entwickelte eine Tabellenanwendung für Linespace, die es blinden Benutzern ermöglicht, bestimmte Werte in der Tabelle auszulesen, Formeln zu bearbeiten und Graphen durch Linespace zeichnen zu lassen. Ein kleiner Überblick über unsere größeren Designentscheidungen kann man in den Folien 64 bis 69 im unten stehenden Link oder im verlinkten Talk ab 13m:50s finden.",
     },
 
       "authors"   : [ "Maximilian Söchting" ],
@@ -69,8 +69,20 @@
           "desc"  : "What is Linespace?"
         },
         { "href"  : "https://youtu.be/EGxcSqq-204?t=821",
-          "desc"  : "CHI2016 Linespace talk (starting 13:50)"
+          "desc"  : "CHI2016 Linespace talk"
         } ],
+    },
+    { "key"       : "randomteamdef2012",
+      "title"     : "RandomTeamDefense - Programming custom game modes for StarCraft II",
+      "date"      : "2012-01-01",
+
+      "caption"   : {
+        "en" : "With the help of the StarCraft II Map Editor, I designed and programmed multiple custom game modes for StarCraft II. One of my published maps called 'RandomTeamDefense', was consistently placed in the top 12 most played custom game modes for over 6 months after its release and has over 2500 reviews on Battle.Net with an average of 4.7 out of 5 stars",
+        "de" : "Mit der Hilfe des StarCraft II-Karteneditors habe ich mehrere 'Arcade'-Karten für StarCraft II konzipiert und programmiert. Einer meiner veröffentlichten Karten namens 'RandomTeamDefense' war für über 6 Monate nach dem Release in den 'Top 12 Meistgespielt' und hat über 2500 Bewertungen im Battle.Net, mit einer durchschnittlichen Bewertung von 4.7 von 5 Sternen.",
+        },
+
+      "authors"   : [ "Maximilian Söchting" ],
+      "thumbnail" : "2012-randomteamdef.jpg",
     },
      ]
 }
