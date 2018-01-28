@@ -38,12 +38,12 @@ defaults:
       path: ''
     values:
       lang: en
-      description: 'Personal website of Maximilian Söchting, bachelor student at Hasso-Plattner-Institute in Potsdam. It enlists his projects, publications and contact information.'
+      description: 'Personal website of Maximilian Söchting, master student at Hasso-Plattner-Institute in Potsdam. It enlists his projects, publications and contact information.'
   - scope:
       path: 'de'
     values:
       lang: de
-      description: 'Persönliche Webseite von Maximilian Söchting, Bachelorstudent am Hasso-Plattner-Institut in Potsdam. Die Webseite listet Projekte, Veröffentlichungen und Kontaktdaten.'
+      description: 'Persönliche Webseite von Maximilian Söchting, Masterstudent am Hasso-Plattner-Institut in Potsdam. Die Webseite listet Projekte, Veröffentlichungen und Kontaktdaten.'
   - scope:
       path: 'en'
     values:

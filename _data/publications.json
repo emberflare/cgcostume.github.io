@@ -3,6 +3,35 @@
     "en" : "Publications",
     "de" : "Publikationen" },
 
-  "publications" : [ ]
+  "publications" : [ 
+    { "key"       : "2017-prosumerfx",
+      "bibtex"    : "2017-prosumerfx.bib",
+      "title"     : "ProsumerFX: Mobile Design of Image Stylization Components",
+      "date"      : "2017-11-01",
+      "authors"   : [ "Tobias Dürschmid", "Maximilian Söchting", "Amir Semmo", "Matthias Trapp", "Jürgen Döllner" ],
+      "published" : "SIGGRAPH Asia Symposium on Mobile Graphics & Interactive Applications 2017",
+      
+      "caption"   : {
+        "en" : "With the continuous advances of mobile graphics hardware, high-quality image stylization—e.g., based on image filtering, stroke-based rendering, and neural style transfer—is becoming feasible and increasingly used in casual creativity apps. The creative expression facilitated by these mobile apps, however, is typically limited with respect to the usage and application of pre-defined visual styles, which ultimately does not include their design and composition—an inherent requirement of prosumers. We present ProsumerFX, a GPU-based app that enables to interactively design parameterizable image stylization components on-device by reusing building blocks of image processing effects and pipelines. Furthermore, the presentation of the effects can be customized by modifying the icons, names, and order of parameters and presets. Thereby, the customized visual styles are defined as platform-independent effects and can be shared with other users via a web-based platform and database. Together with the presented mobile app, this system approach supports collaborative works for designing visual styles, including their rapid prototyping, A/B testing, publishing, and distribution. Thus, it satisfies the needs for creative expression of both professionals as well as the general public.",
+        "de" : "With the continuous advances of mobile graphics hardware, high-quality image stylization—e.g., based on image filtering, stroke-based rendering, and neural style transfer—is becoming feasible and increasingly used in casual creativity apps. The creative expression facilitated by these mobile apps, however, is typically limited with respect to the usage and application of pre-defined visual styles, which ultimately does not include their design and composition—an inherent requirement of prosumers. We present ProsumerFX, a GPU-based app that enables to interactively design parameterizable image stylization components on-device by reusing building blocks of image processing effects and pipelines. Furthermore, the presentation of the effects can be customized by modifying the icons, names, and order of parameters and presets. Thereby, the customized visual styles are defined as platform-independent effects and can be shared with other users via a web-based platform and database. Together with the presented mobile app, this system approach supports collaborative works for designing visual styles, including their rapid prototyping, A/B testing, publishing, and distribution. Thus, it satisfies the needs for creative expression of both professionals as well as the general public." },
+
+      "thumbnail" : "2017-prosumerfx.jpg",
+      "lead_note" : "<a href='https://sa2017.siggraph.org/attendees/award-winners'>Best Paper Award</a>",
+
+      "downloads" : [
+        { "href"  : "https://dx.doi.org/10.1145/3132787.3139208",
+          "desc"  : "DOI"
+        },
+        { "href"  : "https://www.researchgate.net/publication/319631844_ProsumerFX_Mobile_Design_of_Image_Stylization_Components",
+          "desc"  : "ResearchGate"
+        },
+        { "href"  : "https://www.slideshare.net/secret/GXmxjvJ2dIuXzs",
+          "desc"  : "Slides"
+        },
+        { "href"  : "https://youtu.be/yv8N1tIce84",
+          "desc"  : "Video"
+        }
+        ],
+    }]
 
 }
