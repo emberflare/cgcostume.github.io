@@ -16,10 +16,10 @@
       "authors"   : [ "Maximilian Söchting", "Daniel Limberger" ],
       "thumbnail" : "2016-mfsv.jpg",
       "downloads" : [
-        { "href"  : "https://github.com/emberflare/mfsv",
+        { "href"  : "https://github.com/msoechting/mfsv",
           "desc"  : "Project (GitHub)"
         }, {
-          "href"  : "http://emberflare.github.io/mfsv",
+          "href"  : "http://msoechting.github.io/mfsv",
           "desc"  : "Demos"
         } ],
     },
@@ -34,7 +34,7 @@
       "authors"   : [ "Maximilian Söchting" ],
       "thumbnail" : "2016-hmap2obj.jpg",
       "downloads" : [
-        { "href"  : "https://github.com/emberflare/heightmap2obj",
+        { "href"  : "https://github.com/msoechting/heightmap2obj",
           "desc"  : "Project (GitHub)"
         } ],
     },

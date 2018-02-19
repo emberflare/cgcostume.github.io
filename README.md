@@ -2,7 +2,7 @@
 Portfolio optimized for researchers and those who strive for a minimal, file-based "content management" (**Datafolio**).
 The complete site's content is based on a json/xml file per section (e.g., ```contact.json```, ```projects.json```, ```publications.json```, ```talks.json```, and ```teaching.json```) as well as the pages ```_config.yml``` information.
 
-[![Build Status](https://travis-ci.org/emberflare/emberflare.github.io.svg?branch=master)](https://travis-ci.org/emberflare/emberflare.github.io)
+[![Build Status](https://travis-ci.org/msoechting/msoechting.github.io.svg?branch=master)](https://travis-ci.org/msoechting/msoechting.github.io)
 
 #### Examples
 
