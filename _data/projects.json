@@ -4,7 +4,22 @@
     "de" : "Projekte & Referenzen" },
 
   "projects" : [
-
+    { "key"       : "rollgame2018",
+      "title"     : "RollGame - the first Roll-Playing Game ever",
+      "date"      : "2018-03-01",
+      "caption"   : {
+        "en" : "An arcade video game loosely inspired by Guitar Hero and BIT.TRIP BEAT about rolling heroes fighting against orcs. Programmed using C#, MonoGame and MonoGame.Extended. In development since March 2018.",
+        "de" : "Ein Arcade-Videospiel, lose inspiriert von Guiter Hero und BIT.TRIP BEAT, mit rollenden Helden, die gegen Orks kämpfen. Mit C#, MonoGame und MonoGame.Extended programmiert. In der Entwicklung seit März 2018." },
+      "authors"   : [ "Maximilian Söchting" ],
+      "thumbnail" : "2018-rollgame.jpg",
+      "downloads" : [
+        { "href"  : "https://drive.google.com/open?id=1Gz8Hsol0G0HalIS_VbFaOFOwfze1j4Yh",
+          "desc"  : "Showcase (06.04.2018)"
+        }, {
+          "href"  : "#",
+          "desc"  : "Dev Blog (coming soon)"
+        } ],
+    },
     { "key"       : "mfsv2016",
       "title"     : "MFSV",
       "date"      : "2016-08-30",
@@ -21,21 +36,6 @@
         }, {
           "href"  : "http://msoechting.github.io/mfsv",
           "desc"  : "Demos"
-        } ],
-    },
-    { "key"       : "hmap2obj2016",
-      "title"     : "heightmap2obj",
-      "date"      : "2016-10-15",
-
-      "caption"   : {
-        "en" : "A clean and simple C++ CLI tool that converts a greyscale heightmap to a 3D OBJ model. Especially useful for quickly generating models for 3D printing.",
-        "de" : "Eine einfache C++ Kommandozeilenanwendung, die eine Graustufen-Höhenkarte in ein 3D-OBJ-Modell konvertiert. Besonders nützlich für die schnelle Generierung von Modellen für den 3D-Druck." },
-
-      "authors"   : [ "Maximilian Söchting" ],
-      "thumbnail" : "2016-hmap2obj.jpg",
-      "downloads" : [
-        { "href"  : "https://github.com/msoechting/heightmap2obj",
-          "desc"  : "Project (GitHub)"
         } ],
     },
     { "key"       : "busdriver2016",
