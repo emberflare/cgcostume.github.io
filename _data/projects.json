@@ -5,7 +5,7 @@
 
   "projects" : [
     { "key"       : "rollgame2018",
-      "title"     : "RollGame - the first Roll-Playing Game ever",
+      "title"     : "RollGame",
       "date"      : "2018-03-01",
       "caption"   : {
         "en" : "An arcade video game loosely inspired by Guitar Hero and BIT.TRIP BEAT about rolling heroes fighting against orcs. Programmed using C#, MonoGame and MonoGame.Extended. In development since March 2018.",
