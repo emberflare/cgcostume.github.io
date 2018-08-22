@@ -1,33 +1,58 @@
 {
-  "heading" : {
-    "en" : "Publications",
-    "de" : "Publikationen" },
+  "heading": {
+    "en": "Publications",
+    "de": "Publikationen"
+  },
 
-  "publications" : [ 
-    { "key"       : "2017-prosumerfx",
-      "bibtex"    : "2017-prosumerfx.bib",
-      "title"     : "ProsumerFX: Mobile Design of Image Stylization Components",
-      "date"      : "2017-11-01",
-      "authors"   : [ "Tobias Dürschmid", "Maximilian Söchting", "Amir Semmo", "Matthias Trapp", "Jürgen Döllner" ],
-      "published" : "SIGGRAPH Asia Symposium on Mobile Graphics & Interactive Applications",
-      
-      "thumbnail" : "2017-prosumerfx.jpg",
-      "lead_note" : "<a href='https://sa2017.siggraph.org/attendees/award-winners'>Best Paper Award</a>",
+  "publications": [{
+      "key": "2017-prosumerfx",
+      "bibtex": "2017-prosumerfx.bib",
+      "title": "ProsumerFX: Mobile Design of Image Stylization Components",
+      "date": "2017-11-01",
+      "authors": ["Tobias Dürschmid", "Maximilian Söchting", "Amir Semmo", "Matthias Trapp", "Jürgen Döllner"],
+      "published": "SIGGRAPH Asia Symposium on Mobile Graphics & Interactive Applications",
 
-      "downloads" : [
-        { "href"  : "https://dx.doi.org/10.1145/3132787.3139208",
-          "desc"  : "DOI"
+      "thumbnail": "2017-prosumerfx.jpg",
+      "lead_note": "<a href='https://sa2017.siggraph.org/attendees/award-winners'>Best Paper Award</a>",
+
+      "downloads": [{
+          "href": "https://dx.doi.org/10.1145/3132787.3139208",
+          "desc": "DOI"
         },
-        { "href"  : "https://www.researchgate.net/publication/319631844_ProsumerFX_Mobile_Design_of_Image_Stylization_Components",
-          "desc"  : "ResearchGate"
+        {
+          "href": "https://www.researchgate.net/publication/319631844_ProsumerFX_Mobile_Design_of_Image_Stylization_Components",
+          "desc": "ResearchGate"
         },
-        { "href"  : "https://www.slideshare.net/secret/GXmxjvJ2dIuXzs",
-          "desc"  : "Slides"
+        {
+          "href": "https://www.slideshare.net/secret/GXmxjvJ2dIuXzs",
+          "desc": "Slides"
         },
-        { "href"  : "https://youtu.be/yv8N1tIce84",
-          "desc"  : "Video"
+        {
+          "href": "https://youtu.be/yv8N1tIce84",
+          "desc": "Video"
         }
-        ]
-    }]
+      ]
+    },
+    {
+      "key": "2018-service-based-ip",
+      "bibtex": "2018-service-based-ip.bib",
+      "title": "ProsumerFX: Mobile Design of Image Stylization Components",
+      "date": "2018-05-01",
+      "authors": ["Marvin Richter", "Maximilian Söchting", "Amir Semmo", "Jürgen Döllner", "Matthias Trapp"],
+      "published": "26th International Conference on Computer Graphics, Visualization and Computer Vision",
+
+      "thumbnail": "2018-service-based-ip.jpg",
+
+      "downloads": [{
+          "href": "https://doi.org/10.24132/CSRN.2018.2802.13",
+          "desc": "DOI"
+        },
+        {
+          "href": "https://www.researchgate.net/publication/325415513_Service-based_Processing_and_Provisioning_of_Image-Abstraction_Techniques",
+          "desc": "ResearchGate"
+        }
+      ]
+    }
+  ]
 
 }
