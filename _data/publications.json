@@ -52,6 +52,32 @@
           "desc": "ResearchGate"
         }
       ]
+    },
+    {
+      "key": "2020-eye-tracking",
+      "bibtex": "2020-eye-tracking.bib",
+      "title": "Controlling Image-Stylization Techniques using Eye Tracking",
+      "date": "2020-02-27",
+      "authors": ["Maximilian Söchting", "Matthias Trapp"],
+      "published": "15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 2: HUCAPP",
+      "thumbnail": "2020-eye-tracking.jpg",
+      "downloads": [{
+          "href": "https://doi.org/10.5220/0008964500250034",
+          "desc": "DOI"
+        },
+        {
+          "href": "https://www.researchgate.net/publication/338402556_Controlling_Image-Stylization_Techniques_using_Eye_Tracking",
+          "desc": "ResearchGate"
+        },
+        {
+          "href": "https://www.researchgate.net/publication/339645061_Controlling_Image-Stylization_Techniques_using_Eye_Tracking_Presentation",
+          "desc": "Slides"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=wV4KKLlKYNo",
+          "desc": "Video"
+        }
+      ]
     }
   ]
 
