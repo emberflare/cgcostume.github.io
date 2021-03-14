@@ -78,7 +78,42 @@
           "desc": "Video"
         }
       ]
+    },
+    {
+      "key": "2021-heuristic-3d-ccl",
+      "bibtex": "2021-heuristic-3d-ccl.bib",
+      "title": "A Heuristic-Based Decision Tree for Connected Components Labeling of 3D Volumes",
+      "date": "2021-01-11",
+      "authors": ["Maximilian Söchting", "Stefano Allegretti", "Federico Bolelli", "Costantino Grana"],
+      "published": "25th International Conference on Pattern Recognition (ICPR)",
+      "thumbnail": "2021-heuristic-3d-ccl.png",
+      "downloads": [{
+          "href": "https://iris.unimore.it/retrieve/handle/11380/1212419/314642/2020_ICPR_A_Heuristic_Based_Decision_Tree_for_Connected_Components_Labeling_of_3D_Volumes.pdf",
+          "desc": "PDF"
+        },
+        {
+          "href": "https://underline.io/lecture/11813-2131---a-heuristic-based-decision-tree-for-connected-components-labeling-of-3d-volumes",
+          "desc": "Video"
+        }
+      ]
+    },
+    {
+      "key": "2021-software-forest",
+      "bibtex": "2021-software-forest.bib",
+      "title": "Software Forest: A Visualization of Semantic Similarities in Source Code using a Tree Metaphor",
+      "date": "2021-02-27",
+      "authors": ["Daniel Atzberger", "Tim Cech", "Merlin de la Haye", "Maximilian Söchting", "Willy Scheibel", "Daniel Limberger", "Jürgen Döllner"],
+      "published": "16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 3: IVAPP",
+      "thumbnail": "2021-software-forest.png",
+      "downloads": [{
+          "href": "https://doi.org/10.5220/0010267601120122",
+          "desc": "DOI"
+        },
+        {
+          "href": "https://www.researchgate.net/publication/349382985_Software_Forest_A_Visualization_of_Semantic_Similarities_in_Source_Code_using_a_Tree_Metaphor/",
+          "desc": "ResearchGate"
+        }
+      ]
     }
   ]
-
 }
