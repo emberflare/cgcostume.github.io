@@ -38,12 +38,12 @@ defaults:
       path: ''
     values:
       lang: en
-      description: 'Personal website of Maximilian Söchting, CTO and Co-Founder at INNO-NGIN and graduate of the Hasso-Plattner-Institute in Potsdam. It enlists his projects, publications and contact information.'
+      description: 'Personal website of Maximilian Söchting, graduate of the Hasso-Plattner-Institute in Potsdam. It enlists his projects, publications and contact information.'
   - scope:
       path: 'de'
     values:
       lang: de
-      description: 'Persönliche Webseite von Maximilian Söchting, CTO und Mitgründer von INNO-NGIN sowie Masterabsolvent des Hasso-Plattner-Institut in Potsdam. Die Webseite listet Projekte, Veröffentlichungen und Kontaktdaten.'
+      description: 'Persönliche Webseite von Maximilian Söchting, Masterabsolvent des Hasso-Plattner-Institut in Potsdam. Die Webseite listet Projekte, Veröffentlichungen und Kontaktdaten.'
   - scope:
       path: 'en'
     values:
