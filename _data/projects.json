@@ -4,22 +4,6 @@
     "de" : "Projekte & Referenzen" },
 
   "projects" : [
-    { "key"       : "rollgame2018",
-      "title"     : "RollGame",
-      "date"      : "2018-03-01",
-      "caption"   : {
-        "en" : "An arcade video game loosely inspired by Guitar Hero and BIT.TRIP BEAT about rolling heroes fighting against orcs. Programmed using C#, MonoGame and MonoGame.Extended. In development since March 2018.",
-        "de" : "Ein Arcade-Videospiel, lose inspiriert von Guiter Hero und BIT.TRIP BEAT, mit rollenden Helden, die gegen Orks kämpfen. Mit C#, MonoGame und MonoGame.Extended programmiert. In der Entwicklung seit März 2018." },
-      "authors"   : [ "Maximilian Söchting" ],
-      "thumbnail" : "2018-rollgame.jpg",
-      "downloads" : [
-        { "href"  : "https://drive.google.com/open?id=1Gz8Hsol0G0HalIS_VbFaOFOwfze1j4Yh",
-          "desc"  : "Showcase (06.04.2018)"
-        }, {
-          "href"  : "#",
-          "desc"  : "Dev Blog (coming soon)"
-        } ],
-    },
     { "key"       : "mfsv2016",
       "title"     : "MFSV",
       "date"      : "2016-08-30",
@@ -36,21 +20,6 @@
         }, {
           "href"  : "http://msoechting.github.io/mfsv",
           "desc"  : "Demos"
-        } ],
-    },
-    { "key"       : "busdriver2016",
-      "title"     : "BusDriver",
-      "date"      : "2016-01-30",
-
-      "caption"   : {
-        "en" : "A bus driving simulation with video game character developed in Smalltalk as part of the Software Architecture lecture in the winter semester 2015/16 at HPI. Developed together with Julian Weise and Johannes Schneider.",
-        "de" : "Eine Busfahrsimulation mit Videospielcharakter welche in einem dreiköpfigen Team als Teil der Softwarearchitektur-Vorlesung im Wintersemester 2015/16 am HPI in Smalltalk implementiert wurde. Entwickelt zusammen mit Julian Weise und Johannes Schneider." },
-
-      "authors"   : [ "Maximilian Söchting" ],
-      "thumbnail" : "2016-busdriver.jpg",
-      "downloads" : [
-        { "href"  : "https://youtu.be/X0DitZCjQF0",
-          "desc"  : "Showcase (YouTube)"
         } ],
     },
     { "key"       : "blindexcel2016",
